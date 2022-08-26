@@ -7,13 +7,13 @@ very noob though.
 
 ## TUTORIAL FOR NOOBS:
 
-in this project function.
+in the project function.
 
-x y z is the vertex's offset from the center.
-pos is the center.
-rot is rotation (in radians).
+"x" "y" and "z" is the vertex's offset from the center.
+"pos" is the center.
+"rot" is rotation (in radians).
 
-rot is also very weird.
+rotation is also very weird. learn how it work.
 
 # CREDITS TO
 
