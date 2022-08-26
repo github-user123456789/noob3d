@@ -14,3 +14,8 @@ pos is the center.
 rot is rotation (in radians).
 
 rot is also very weird.
+
+# CREDITS TO
+
+gale3d from scratch.mit.edu!!!!
+(https://scratch.mit.edu/projects/799909/)
