@@ -24,7 +24,7 @@ local function project(x, y, z, pos, rot)
 	
 	local CANV = surface.CanvasSize
 	if CANV.x < CANV.y then
-		X /= surface.CanvasSize.y/surface.CanvasSize.x
+		Y /= surface.CanvasSize.y/surface.CanvasSize.x
 	elseif CANV.x > CANV.y then
 		X /= surface.CanvasSize.x/surface.CanvasSize.y
 	end
