@@ -2,6 +2,9 @@
 -- intended for surfacegui, can be adapted to screengui if u want.
 -- surface would be the surfacegui.
 
+-- it is recommended that your screen's size is based on the canvassize
+-- or the aspect ratio might look weird
+
 local focall = .3 * 2
 local cam = Vector3.new(0, 0, -4)
 local camrot = Vector3.new(0, 0, 0)
